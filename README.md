@@ -12,3 +12,5 @@ Is the MultiTool safe?
 1. Yes the MultiTool is 100%, if it gets flagged while downloading or while running just disable your antivirus, or allow the MultiTool to bypass the AntiVirus.
 
 2. And Windows will most likely flag it, so just press "More info" and "Run anyways"
+
+Password: $sudo#Pass
